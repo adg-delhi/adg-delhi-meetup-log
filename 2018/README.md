@@ -20,3 +20,18 @@
     Kotlin has lot of features which makes it apt for functional programming. Vivek throws light on some of these features and expolres possibilities in Android.
 
     [![Towards Functional Programming in Kotlin | Vivek Singh](https://img.youtube.com/vi/g43GHB5AJfQ/0.jpg)](https://www.youtube.com/watch?v=g43GHB5AJfQ)
+
+
+
+### Meetup #1, 
+    Oct 27 2018, Grofers Headquarters, Gurgaon
+
+1. **[Dependency Injection with Koin]../files/Dependency Injection with Koin.pdf) - [Anuj Middha](https://www.linkedin.com/in/anuj-middha)**
+
+    Koin is new dependancy injection framework for Kotlin. Anuj talked about how you can include it in your projects.
+
+2. **[Introduction to MVVM with Kotlin and Architecture Components](../files/MMVM-Architecture-Components.pdf) - [Abhishek Bansal](https://www.linkedin.com/in/abhishek-bansal-5b39011b/)**
+
+    Abhishek talked about how to implement MVVM pattern right way in Android and how Kotlin helps in that.
+
+3. **How LayoutInflater works**
