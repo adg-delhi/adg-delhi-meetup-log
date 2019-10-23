@@ -1,4 +1,4 @@
-### ADG Delhi Meetups in 2019
+## ADG Delhi Meetups in 2019
 
 ### Meetup #9, 
     UrbanClap Technologies India Pvt Ltd, Gurgaon, October 12, 2019
@@ -41,6 +41,33 @@
 
     [![Deep dive into Constraint Layout](https://img.youtube.com/vi/UKmU0IxJnvs/0.jpg)](https://www.youtube.com/watch?v=UKmU0IxJnvs)
 
-4. **Graphql in Android @ Tokopedia - Varun and Sachin, Tokopedia**
+4. **Graphql in Android @ Tokopedia - [Varun](https://www.linkedin.com/in/varun-sharma-a584246b/) and Sachin, Tokopedia**
 
     [![Graphql in Android @ Tokopedia](https://img.youtube.com/vi/eOVDjLupZFc/0.jpg)](https://www.youtube.com/watch?v=eOVDjLupZFc)
+
+
+### Meetup #7, 
+    UrbanClap Technologies India Pvt Ltd, Gurgaon, October 12, 2019
+
+1. **History of Garbage collection in Android - [Anupam Singh](https://www.linkedin.com/in/anupamsingh0211/)**
+    
+    [![History of Garbage collection in Android](https://img.youtube.com/vi/NEO5cJQ8F6Q/0.jpg)](https://www.youtube.com/watch?v=NEO5cJQ8F6Q)
+
+2. **[Why we love Kotlin? @DoctorBox](../files/Why%20we%20love%20Kotlin%20in%20DoctorBox.pdf) - [Abhishek Bansal](https://www.linkedin.com/in/abhishek-bansal-5b39011b/) & [Vivek Singh](https://www.linkedin.com/in/viveksingh46bab221)**
+
+    Abhishek and Vivek will talk about Kotlin’s useful features and how they increase developer productivity.
+    
+    [![Why we love Kotlin? @DoctorBox](https://img.youtube.com/vi/_o5feHorv4k/0.jpg)](https://www.youtube.com/watch?v=_o5feHorv4k)
+
+3. **How yo write your own annotation processors in android - [Hitanshu Dhawan](https://www.linkedin.com/in/hitanshu-dhawan/)**
+
+    [![How yo write your own annotation processors in android | Hitanshu Dhawan](https://img.youtube.com/vi/jqwW54lZEls/0.jpg)](https://www.youtube.com/watch?v=jqwW54lZEls)
+
+4. **Overview of Functional Programming and Coroutines in Kotlin by [Varun Sharma](https://www.linkedin.com/in/varun-sharma-a584246b/) and [Lalit Pratap](https://www.linkedin.com/in/prataplalit90/), Tokopedia**
+
+    Varun and Lalit will go through functional aspects of Kotlin, behaviors of anonymous functions and lambdas. They will also cover the co-routines using functional style.
+
+    [![Overview of Functional Programming and Coroutines in Kotlin](https://img.youtube.com/vi/swAYA0GAxsM/0.jpg)](https://www.youtube.com/watch?v=swAYA0GAxsM)
+
+
+5. **Open Source App Demo [PSLab](https://play.google.com/store/apps/details?id=io.pslab)**
