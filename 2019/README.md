@@ -15,11 +15,11 @@
     
     [![Android Studio - Tips and Tricks - Ansh Singh](https://img.youtube.com/vi/zyZNFySAPi4/0.jpg)](https://www.youtube.com/watch?v=zyZNFySAPi4)
 
-3. **3. [Writing DSLs in Kotlin](https://docs.google.com/presentation/d/1q3QSgrMFp6fAeTpOg_JhPlCyTjlrb5uaaChD5Wzbpuo/) - [Hitanshu Dhawan](https://www.linkedin.com/in/hitanshu-dhawan/)**
+3. **[Writing DSLs in Kotlin](https://docs.google.com/presentation/d/1q3QSgrMFp6fAeTpOg_JhPlCyTjlrb5uaaChD5Wzbpuo/) - [Hitanshu Dhawan](https://www.linkedin.com/in/hitanshu-dhawan/)**
 
     How Kotlin provides awesome language features to write your DSLs which can help you make your code more beautiful and concise.
 
-    [![3. Writing DSLs in Kotlin | Hitanshu Dhawan](https://img.youtube.com/vi/7-ewXYAjeOo/0.jpg)](https://www.youtube.com/watch?v=7-ewXYAjeOo)
+    [![Writing DSLs in Kotlin | Hitanshu Dhawan](https://img.youtube.com/vi/7-ewXYAjeOo/0.jpg)](https://www.youtube.com/watch?v=7-ewXYAjeOo)
 
 
 ### Meetup #8, 
