@@ -26,7 +26,7 @@
 ### Meetup #1, 
     Oct 27 2018, Grofers Headquarters, Gurgaon
 
-1. **[Dependency Injection with Koin]../files/Dependency Injection with Koin.pdf) - [Anuj Middha](https://www.linkedin.com/in/anuj-middha)**
+1. **[Dependency Injection with Koin](../files/Dependency%20Injection%20with%20Koin.pdf) - [Anuj Middha](https://www.linkedin.com/in/anuj-middha)**
 
     Koin is new dependancy injection framework for Kotlin. Anuj talked about how you can include it in your projects.
 
