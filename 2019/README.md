@@ -49,7 +49,7 @@
 
 
 ### Meetup #7, 
-    UrbanClap Technologies India Pvt Ltd, Gurgaon, October 12, 2019
+    UrbanClap Technologies India Pvt Ltd, Gurgaon, June 22, 2019
 
 1. **History of Garbage collection in Android - [Anupam Singh](https://www.linkedin.com/in/anupamsingh0211/)**
     
@@ -75,3 +75,36 @@
 
 
 5. **Open Source App Demo [PSLab](https://play.google.com/store/apps/details?id=io.pslab)**
+
+### Meetup #6
+    SocialCops, Saket, New Delhi, May 11, 2019
+
+1. Android App Localization by [Adwait Vyas](https://www.linkedin.com/in/adwaitvyas/)
+
+[![Android App Localization](https://img.youtube.com/vi/dDfcvvp2fTc/0.jpg)](https://www.youtube.com/watch?v=dDfcvvp2fTc)
+
+2. Kotlin Native and Kotlin Multiplatform by [Vivek Singh](https://www.linkedin.com/in/vsingh1011/)
+
+[![Kotlin Native and Kotlin Multiplatform](https://img.youtube.com/vi/IPkFq0nbm74/0.jpg)](https://www.youtube.com/watch?v=IPkFq0nbm74)
+
+
+### Meetup #5
+    Oyo Corporate Office, Gurgaon, March 30, 2019
+
+1. **[Opening doors to Room](../files/Multithreading-Alternatives-in-Android.pdf) - [Ansh Singh](https://www.linkedin.com/in/annsh/)**
+
+    Annsh will be covering Room Persistence Library. Everything from basics of the library to the observable stuff like livedata, RxJava and Coroutines.
+    
+    [![2. Opening doors to Room - Ansh Singh](https://img.youtube.com/vi/DqzrR2VOsTQ/0.jpg)](https://www.youtube.com/watch?v=DqzrR2VOsTQ)
+
+2. **[Introduction to Work Manager](https://slides.com/ayuschjain/workmanager) - [Ayusch Jain]( https://www.linkedin.com/in/ayuschjain)**
+
+    Ayusch will be talking about the newly stable Work Manager from Android Jetpack
+    
+    [![Introduction to Work Manager - Ayusch Jain](https://img.youtube.com/vi/CcJ877VdZdA/0.jpg)](https://www.youtube.com/watch?v=CcJ877VdZdA)
+
+3. **[Multithreading Alternatives in Android](../files/Multithreading-Alternatives-in-Android.pdf) - [Shiv Kumar Malik]( https://www.linkedin.com/in/ayuschjain)**
+
+    In Android ecosystem, we need to be diligent in deciding where we run the tasks we need to execute to keep our application running. Using wrong thread may make our UI janky or produce ANRs leading to poor user experience. In this talk Shiv discusses the common multi threading use cases and alternatives we have to do them right.
+    
+    [![Multithreading Alternatives in Android - Shiv Kumar Malik](https://img.youtube.com/vi/OjmMlF68-0I/0.jpg)](https://www.youtube.com/watch?v=OjmMlF68-0I)
