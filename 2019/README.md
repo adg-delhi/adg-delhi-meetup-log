@@ -18,6 +18,8 @@
 3. **[Writing DSLs in Kotlin](https://docs.google.com/presentation/d/1q3QSgrMFp6fAeTpOg_JhPlCyTjlrb5uaaChD5Wzbpuo/) - [Hitanshu Dhawan](https://www.linkedin.com/in/hitanshu-dhawan/)**
 
     How Kotlin provides awesome language features to write your DSLs which can help you make your code more beautiful and concise.
+    
+    Code: https://bitbucket.org/hitanshu-dhawan/kotlindsladgtalk/src/master/app/src/main/java/com/hitanshudhawan/kotlin_dsl_adg_talk/
 
     [![Writing DSLs in Kotlin | Hitanshu Dhawan](https://img.youtube.com/vi/7-ewXYAjeOo/0.jpg)](https://www.youtube.com/watch?v=7-ewXYAjeOo)
 
@@ -59,7 +61,9 @@
     
     [![Why we love Kotlin? @DoctorBox](https://img.youtube.com/vi/_o5feHorv4k/0.jpg)](https://www.youtube.com/watch?v=_o5feHorv4k)
 
-3. **How yo write your own annotation processors in android - [Hitanshu Dhawan](https://www.linkedin.com/in/hitanshu-dhawan/)**
+3. **[Writing your own Annotation Processors in Android](https://docs.google.com/presentation/d/1OtR-5czLrHnZgxrZXoVwftms9WuInwkUKMT3z8nBO-s/edit) - [Hitanshu Dhawan](https://www.linkedin.com/in/hitanshu-dhawan/)**
+
+    Code: https://github.com/hitanshu-dhawan/AnnotationProcessing
 
     [![How yo write your own annotation processors in android | Hitanshu Dhawan](https://img.youtube.com/vi/jqwW54lZEls/0.jpg)](https://www.youtube.com/watch?v=jqwW54lZEls)
 
