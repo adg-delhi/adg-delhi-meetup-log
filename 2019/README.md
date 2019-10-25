@@ -67,7 +67,7 @@
 
     [![How yo write your own annotation processors in android | Hitanshu Dhawan](https://img.youtube.com/vi/jqwW54lZEls/0.jpg)](https://www.youtube.com/watch?v=jqwW54lZEls)
 
-4. **Overview of Functional Programming and Coroutines in Kotlin by [Varun Sharma](https://www.linkedin.com/in/varun-sharma-a584246b/) and [Lalit Pratap](https://www.linkedin.com/in/prataplalit90/), Tokopedia**
+4. **[Overview of Functional Programming and Coroutines in Kotlin](../files/functional_kotlin_varun_lalit_tokopedia.pdf) by [Varun Sharma](https://www.linkedin.com/in/varun-sharma-a584246b/) and [Lalit Pratap](https://www.linkedin.com/in/prataplalit90/), Tokopedia**
 
     Varun and Lalit will go through functional aspects of Kotlin, behaviors of anonymous functions and lambdas. They will also cover the co-routines using functional style.
 
@@ -108,3 +108,36 @@
     In Android ecosystem, we need to be diligent in deciding where we run the tasks we need to execute to keep our application running. Using wrong thread may make our UI janky or produce ANRs leading to poor user experience. In this talk Shiv discusses the common multi threading use cases and alternatives we have to do them right.
     
     [![Multithreading Alternatives in Android - Shiv Kumar Malik](https://img.youtube.com/vi/OjmMlF68-0I/0.jpg)](https://www.youtube.com/watch?v=OjmMlF68-0I)
+
+### Meetup #4 - Zomato huddle (in collaboration with Zomato)
+    Zomato, Gurugram, February 23, 2019
+
+1. **Prashant Mallik | Co-creator Apache Cassandra, Technology Advisor Zomato**
+
+    A candid conversation with the dynamic Prashant Mallik on his experience in building scalable systems.
+
+2. **[On Device Machine Learning](../files/Sajal_Gupta_On-Device-Machine-Learning.pdf) by Sajal Gupta | Android Developer, Zomato**
+
+    Demystifying Machine Learning from an Android Developer’s perspective. Walkthrough with the speaker as he explores Machine Learning on Android and how one can achieve custom ML solutions, without ever talking to the servers.
+
+3. **[Learnings from building the exact same application using Kotlin, NativeScript and Flutter](../files/Arnav_Gupta_Kotlin_Natievscript_Flutter.pdf) by Arnav Gupta | Co-Founder, Coding Blocks**
+
+    Go through the journey of building a blogging application (Medium clone) using Kotlin, Nativescript and Flutter. Deep dive into the differences in developer experience and user experience for all these platforms. 
+
+4. **[View rendering and Animation](../files/Arnav_Bose_and-Avninder_Singh_View_Render_Motion_Layout.pdf) by Avninder Singh and Arnav Bose | Android Developers, Zomato**
+
+    Understand how Android Views work and how you can master and manipulate them. Walkthrough the Outline Android API to learn about shadows and clipping, which will open new opportunities to create custom shapes. Create complex animations using Motion Layout and control each and every frame in your application.
+
+### Meetup #3
+
+1. **Custom views for Android - [Anuj Middha](https://www.linkedin.com/in/anuj-middha)**
+
+    Creating custom views that behave nicely for Android.
+
+    [![Custom views for Android by Anuj Middha](https://img.youtube.com/vi/3IqyesuChaY/0.jpg)](https://www.youtube.com/watch?v=3IqyesuChaY)
+
+2. **Handling nested fragments efficiently by Prateek Sharma and Sajal Gupta, Zomato**
+
+    Personalisation of experience for an individual often requires dynamically generating UI. This talk covers our journey into this venture, which required us to create a highly customisable UI, using nested fragments.
+
+    [![Handling nested fragments efficiently by Prateek Sharma and Sajal Gupta, Zomato](https://img.youtube.com/vi/R9JfAGeuTgg/0.jpg)](https://www.youtube.com/watch?v=R9JfAGeuTgg)
