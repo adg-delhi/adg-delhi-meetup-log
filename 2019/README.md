@@ -15,7 +15,7 @@
     
     [![Using Coroutines and Flow for everything async by Udit Verma, NR Kavya(Expedia)](https://img.youtube.com/vi/ieXfcRhudlM/0.jpg)](https://www.youtube.com/watch?v=ieXfcRhudlM)
 
-3. **[Introduction to ARCore]- [Ayusch Jain](https://www.linkedin.com/in/ayuschjain/)**
+3. **Introduction to ARCore- [Ayusch Jain](https://www.linkedin.com/in/ayuschjain/)**
 
     This talk on ARCore and Sceneform would be a complete walkthrough of the 3 principles of ARCore. It would outline how Sceneform works and a live demo of creating a simple AR app using Sceneform SDK. Anyone and everyone looking to get started with AR Development would certainly find this talk inspiring to explore ARCore on their own!
 
