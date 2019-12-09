@@ -1,5 +1,27 @@
 ## ADG Delhi Meetups in 2019
 
+### Meetup #10, 
+    Expedia India, DLF Building No. 5 Tower C · Gurugram
+
+1. **Make your development joyful by automation (CI/CD) - Sarthak Deshwal, Shivani Sharma and Kapil Yadav (Expedia)**
+
+    Tired of uploading APK(s) every time to play store manually? Using git version but have to create APK(s) every time for each commit? Need to run validations on code but afraid, how will they run on each PR? Developer’s happiness and productivity depends on how much part of her/his work is automated. In this talk, we will talk about how we can automate the different flows you might want to trigger with each Pull Request and merges. In simple words, let us talk about Continuous Integration and Continuous Delivery.
+    
+    [![Make your development joyful by automation (CI/CD) by Sarthak Deshwal, Shivani Sharma and Kapil Yadav (Expedia)](https://img.youtube.com/vi/awNUAyQChk0/0.jpg)](https://www.youtube.com/watch?v=awNUAyQChk0)
+
+2. **[Using Coroutines and Flow for everything async.](../files/Flowing_Asynchronously.pdf) - Udit Verma, NR Kavya(Expedia)**
+
+    Many things that we do on Android as a developer, are async in nature. Be it making an API call, handling UI inputs, fetching location, reading from db or a file...it is all async in nature. Kotlin Coroutines and Flow help us do exactly this, handling async work, in a way which is very easy to understand and implement. In this talk, we'll try to understand what is Coroutines and Flow, look at how are they different from the existing frameworks and tools and how can we use them to handle different use cases.
+    
+    [![Using Coroutines and Flow for everything async by Udit Verma, NR Kavya(Expedia)](https://img.youtube.com/vi/ieXfcRhudlM/0.jpg)](https://www.youtube.com/watch?v=ieXfcRhudlM)
+
+3. **[Introduction to ARCore]- [Ayusch Jain](https://www.linkedin.com/in/ayuschjain/)**
+
+    This talk on ARCore and Sceneform would be a complete walkthrough of the 3 principles of ARCore. It would outline how Sceneform works and a live demo of creating a simple AR app using Sceneform SDK. Anyone and everyone looking to get started with AR Development would certainly find this talk inspiring to explore ARCore on their own!
+
+    [![Introduction to ARCore | Ayusch Jain](https://img.youtube.com/vi/QNMwKyStKyg/0.jpg)](https://www.youtube.com/watch?v=QNMwKyStKyg)
+
+
 ### Meetup #9, 
     UrbanClap Technologies India Pvt Ltd, Gurgaon, October 12, 2019
 
