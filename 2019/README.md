@@ -1,4 +1,19 @@
 ## ADG Delhi Meetups in 2019
+### Meetup #12
+    Gojek, 1st Floor, Tower A, Building 8A, DLF Cyber Hub, DLF Cyber City, DLF Phase 3 Gurugram
+
+### Meetup #11
+    Google India, 691, Unitech Signature Towers-2 Delhi-Jaipur Expressway, Sector 15 Part 2 Gurgaon
+    
+1. **[Flutter and how it flows Into Android](../files/Flutter_And_how_it_flows_in_Android.pdf) - [Anupam Singh](https://www.linkedin.com/in/anupamsingh0211/)**
+    How flutter works internally? How does it bridge with Android Native?
+
+    [![Flutter and how it flows Into Android](https://img.youtube.com/vi/cxLtjRIPirs/0.jpg)](https://www.youtube.com/watch?v=cxLtjRIPirs)
+
+2. **[Flutter Widget Rapid Fire]() - [Annsh Singh](https://www.linkedin.com/in/annsh/)**
+    In this talk, Annsh will be covering various flutter widgets along with a working example and code.
+    
+    [![Flutter Widget Rapid Fire by Annsh Singh](https://img.youtube.com/vi/U_zj5g5Xi1U/0.jpg)](https://www.youtube.com/watch?v=U_zj5g5Xi1U)
 
 ### Meetup #10, 
     Expedia India, DLF Building No. 5 Tower C · Gurugram
