@@ -1,6 +1,4 @@
 ## ADG Delhi Meetups in 2019
-### Meetup #12
-    Gojek, 1st Floor, Tower A, Building 8A, DLF Cyber Hub, DLF Cyber City, DLF Phase 3 Gurugram
 
 ### Meetup #11
     Google India, 691, Unitech Signature Towers-2 Delhi-Jaipur Expressway, Sector 15 Part 2 Gurgaon
