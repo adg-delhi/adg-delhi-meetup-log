@@ -1,11 +1,21 @@
 ## ADG Delhi Meetups in 2020
+### Meetup #13- Webinar, July 11, 2020
 
-### Meetup #12
+1. **[Understanding Core of Aarogya Setu app- Bluetooth](../files/Understanding_core_of_AarogyaSetu_App_Bluetooth.pdf) - [Niharika Arora](https://www.linkedin.com/in/niharika-arora-4874967a/)**
+
+    [AarogyaSetu](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN) - India's Contact Tracing App, with an objective of identifying hotspots and tracing individuals who have been to these areas or been in contact with someone who has been already infected.This app is built using Bluetooth Low Energy (BLE), which is a low power wireless communication technology that can be used over a short distance to enable smart devices to communicate. So Let's get into the technical details of BLE integration in AarogyaSetu app.
+
+    [![Understanding the core of AarogyaSetu App : Bluetooth](https://img.youtube.com/vi/K4SLf3y6zmE/0.jpg)](https://www.youtube.com/watch?v=K4SLf3y6zmE)
+
+
+### Meetup #12- Feb 22, 2020
     Gojek, 1st Floor, Tower A, Building 8A, DLF Cyber Hub, DLF Cyber City, DLF Phase 3 Gurugram
 
 1. **[Android Draw](../files/Draw_How_Android_Renders.pdf) - [Anupam Singh](https://www.linkedin.com/in/anupamsingh0211/)**
     
-    How flutter works internally? How does it bridge with Android Native?
+    Android draw: Deep dive into how Android actually render things.
+
+    [![Android Draw: Rendering in Android](https://img.youtube.com/vi/c1Kwi7QKadM/0.jpg)](https://www.youtube.com/watch?v=c1Kwi7QKadM)
 
 2. **[How to write Custom Lints on Android on Android Studio](../files/Writing_Custom_Lint_Rules.pdf) - [Hitanshu Dhawan](https://www.linkedin.com/in/hitanshu-dhawan/)**
     
@@ -18,3 +28,5 @@
     How to write testable code, TDD and Unit testing with Android Architecture Components like Live Data 
     
     **Code**: https://github.com/Niharika8059/UnitTesting-MVVM-Kotlin-Coroutines-Sample
+
+    [![Unit Testing in Android](https://img.youtube.com/vi/0K4S3vkulGc/0.jpg)](https://www.youtube.com/watch?v=0K4S3vkulGc)
