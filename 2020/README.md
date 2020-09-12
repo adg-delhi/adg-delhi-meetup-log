@@ -1,7 +1,18 @@
 ## ADG Delhi Meetups in 2020
 ### Meetup #13- Webinar, July 11, 2020
 
-1. **[Understanding Core of Aarogya Setu app- Bluetooth](../files/Understanding_core_of_AarogyaSetu_App_Bluetooth.pdf) - [Niharika Arora](https://www.linkedin.com/in/niharika-arora-4874967a/)**
+Webinar #2- **[Deep Dive into Wifi direct](../files/wifi_direct_anupam_singh.pdf) - [Anupam Singh](https://www.linkedin.com/in/anupamsingh0211/)**
+
+    File sharing is central to every digital communication now, some form of data is transferred in all form of communication, but what if we don't have the internet to transfer our data?
+
+    Wifi Direct is a Wifi standard for P2P wireless connections that allows two devices to establish a direct Wi-Fi connection without an intermediary wireless access point router, or Internet connection.
+
+    In this session we look into its history, usage and the code which is required to transfer a file using Wifi Direct connection.
+
+    [![Deep Dive into Wifi direct](https://img.youtube.com/vi/aE7l-TlnXlY/0.jpg)](https://www.youtube.com/watch?v=aE7l-TlnXlY)
+
+
+Webinar #1- **[Understanding Core of Aarogya Setu app- Bluetooth](../files/Understanding_core_of_AarogyaSetu_App_Bluetooth.pdf) - [Niharika Arora](https://www.linkedin.com/in/niharika-arora-4874967a/)**
 
     [AarogyaSetu](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN) - India's Contact Tracing App, with an objective of identifying hotspots and tracing individuals who have been to these areas or been in contact with someone who has been already infected.This app is built using Bluetooth Low Energy (BLE), which is a low power wireless communication technology that can be used over a short distance to enable smart devices to communicate. So Let's get into the technical details of BLE integration in AarogyaSetu app.
 
@@ -23,7 +34,7 @@
     
     **Code**: https://github.com/hitanshu-dhawan/CustomLintRules
 
-1. **[Unit Testing in Android](../files/Unit_Testing_in_Android.pdf) - [Niharika Arora](https://www.linkedin.com/in/niharika-arora-4874967a/) and [Anuj Middha](https://www.linkedin.com/in/anuj-middha)**
+3. **[Unit Testing in Android](../files/Unit_Testing_in_Android.pdf) - [Niharika Arora](https://www.linkedin.com/in/niharika-arora-4874967a/) and [Anuj Middha](https://www.linkedin.com/in/anuj-middha)**
     
     How to write testable code, TDD and Unit testing with Android Architecture Components like Live Data 
     
