@@ -1,7 +1,6 @@
 ## ADG Delhi Meetups in 2020
-### Meetup #13- Webinar, July 11, 2020
 
-Webinar #2- **[Deep Dive into Wifi direct](../files/wifi_direct_anupam_singh.pdf) - [Anupam Singh](https://www.linkedin.com/in/anupamsingh0211/)**
+### Webinar #2 Sept 5, 2020- **[Deep Dive into Wifi direct](../files/wifi_direct_anupam_singh.pdf) - [Anupam Singh](https://www.linkedin.com/in/anupamsingh0211/)**
 
 File sharing is central to every digital communication now, some form of data is transferred in all form of communication, but what if we don't have the internet to transfer our data?
 
@@ -12,11 +11,11 @@ In this session we look into its history, usage and the code which is required t
 [![Deep Dive into Wifi direct](https://img.youtube.com/vi/aE7l-TlnXlY/0.jpg)](https://www.youtube.com/watch?v=aE7l-TlnXlY)
 
 
-Webinar #1- **[Understanding Core of Aarogya Setu app- Bluetooth](../files/Understanding_core_of_AarogyaSetu_App_Bluetooth.pdf) - [Niharika Arora](https://www.linkedin.com/in/niharika-arora-4874967a/)**
+### Webinar #1 July 11, 2020- **[Understanding Core of Aarogya Setu app- Bluetooth](../files/Understanding_core_of_AarogyaSetu_App_Bluetooth.pdf) - [Niharika Arora](https://www.linkedin.com/in/niharika-arora-4874967a/)**
 
-    [AarogyaSetu](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN) - India's Contact Tracing App, with an objective of identifying hotspots and tracing individuals who have been to these areas or been in contact with someone who has been already infected.This app is built using Bluetooth Low Energy (BLE), which is a low power wireless communication technology that can be used over a short distance to enable smart devices to communicate. So Let's get into the technical details of BLE integration in AarogyaSetu app.
+[AarogyaSetu](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN) - India's Contact Tracing App, with an objective of identifying hotspots and tracing individuals who have been to these areas or been in contact with someone who has been already infected.This app is built using Bluetooth Low Energy (BLE), which is a low power wireless communication technology that can be used over a short distance to enable smart devices to communicate. So Let's get into the technical details of BLE integration in AarogyaSetu app.
 
-    [![Understanding the core of AarogyaSetu App : Bluetooth](https://img.youtube.com/vi/K4SLf3y6zmE/0.jpg)](https://www.youtube.com/watch?v=K4SLf3y6zmE)
+[![Understanding the core of AarogyaSetu App : Bluetooth](https://img.youtube.com/vi/K4SLf3y6zmE/0.jpg)](https://www.youtube.com/watch?v=K4SLf3y6zmE)
 
 
 ### Meetup #12- Feb 22, 2020
