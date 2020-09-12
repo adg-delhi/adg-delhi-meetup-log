@@ -3,13 +3,13 @@
 
 Webinar #2- **[Deep Dive into Wifi direct](../files/wifi_direct_anupam_singh.pdf) - [Anupam Singh](https://www.linkedin.com/in/anupamsingh0211/)**
 
-    File sharing is central to every digital communication now, some form of data is transferred in all form of communication, but what if we don't have the internet to transfer our data?
+File sharing is central to every digital communication now, some form of data is transferred in all form of communication, but what if we don't have the internet to transfer our data?
 
-    Wifi Direct is a Wifi standard for P2P wireless connections that allows two devices to establish a direct Wi-Fi connection without an intermediary wireless access point router, or Internet connection.
+Wifi Direct is a Wifi standard for P2P wireless connections that allows two devices to establish a direct Wi-Fi connection without an intermediary wireless access point router, or Internet connection.
 
-    In this session we look into its history, usage and the code which is required to transfer a file using Wifi Direct connection.
+In this session we look into its history, usage and the code which is required to transfer a file using Wifi Direct connection.
 
-    [![Deep Dive into Wifi direct](https://img.youtube.com/vi/aE7l-TlnXlY/0.jpg)](https://www.youtube.com/watch?v=aE7l-TlnXlY)
+[![Deep Dive into Wifi direct](https://img.youtube.com/vi/aE7l-TlnXlY/0.jpg)](https://www.youtube.com/watch?v=aE7l-TlnXlY)
 
 
 Webinar #1- **[Understanding Core of Aarogya Setu app- Bluetooth](../files/Understanding_core_of_AarogyaSetu_App_Bluetooth.pdf) - [Niharika Arora](https://www.linkedin.com/in/niharika-arora-4874967a/)**
